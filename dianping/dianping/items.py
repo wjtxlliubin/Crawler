@@ -17,3 +17,30 @@ class DianpingItem(scrapy.Item):
     name = scrapy.Field()
 
     description = scrapy.Field()
+
+    effection = scrapy.Field()
+
+    teachers = scrapy.Field()
+
+    environment = scrapy.Field()
+
+    phone = scrapy.Field()
+
+    address = scrapy.Field()
+
+    class_des = scrapy.Field()
+
+    star = scrapy.Field()
+
+    characteristic = scrapy.Field()
+
+    
+
+
+
+
+
+
+
+
+
